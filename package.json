@@ -1,0 +1,23 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "\"This is React by Adarsh\"",
+  "keywords": [
+    "react"
+  ],
+  "homepage": "https://github.com/RajPandeyji/Namaste-React#readme",
+  "bugs": {
+    "url": "https://github.com/RajPandeyji/Namaste-React/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/RajPandeyji/Namaste-React.git"
+  },
+  "license": "ISC",
+  "author": "Adarsh Kumar",
+  "type": "module",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  }
+}
