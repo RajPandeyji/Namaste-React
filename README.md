@@ -1,4 +1,4 @@
-# i am learing react
+# Namaste react
 
 # Parcel
 - Dev Build
@@ -12,4 +12,9 @@
 - Compress
 - Consistent Hashing
 - Code Splitting
-- Differential Bundling
+- Differential Bundling - support older browser
+- Diagnostic
+- Error Handling
+- HTTPs
+- Tree Shaking - remove unused code
+- Different dev and prod bundles 
